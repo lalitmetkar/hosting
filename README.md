@@ -50,7 +50,7 @@ Start Bootstrap has a public Slack channel which is a great place to ask questio
 
 **[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
 
-## Bugs and Issues
+## Bugs and Issues 
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
 
